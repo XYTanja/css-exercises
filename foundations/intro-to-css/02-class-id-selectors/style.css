@@ -1,0 +1,19 @@
+.odd-numbers,
+.special-class {
+    background-color: #ffb3b3;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#unique-id {
+    color:rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#another-id {
+    background-color: #00f500d0;
+    font-size: 24px;
+}
+
+.special-class {
+    font-size: 24px;
+}
